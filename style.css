@@ -1,0 +1,19 @@
+body {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+color: #000000
+
+    }
+    h1, 
+    .intro{
+        font-weight: bolder;
+        color:#675fac
+    }
+    
+
+    h3{
+        font: italic normal 1.4em Georgia, serif;
+        letter-spacing: 2px;
+        margin-bottom: 0;
+        color: #1a296b;
+    
+    }
