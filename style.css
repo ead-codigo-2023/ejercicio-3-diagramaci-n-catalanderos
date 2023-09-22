@@ -1,19 +1,47 @@
 body {
 	font-family: Georgia, 'Times New Roman', Times, serif;
-color: #000000
+    background: #fff url(https://i.pinimg.com/564x/85/93/21/85932120d0c8b17738282ab7d39183bf.jpg) repeat-y right; 
+    color: #000000
 
     }
-    h1, 
-    .intro{
+
+   
+    
+    h1{
         font-weight: bolder;
+        font-size: x-large;
         color:#675fac
     }
-    
 
+    h2{
+        font-weight: medium;
+        color:#675fac;
+    }
+    
+    p { 
+        margin-top: 0; 
+        text-align: justify;
+        width: 40em;
+        line-height: 1.5;
+        }
+
+        a {
+            text-decoration: none; 
+            color: #2d6084;
+            font-weight: bold; 
+            line-height: 1.5;
+        }
     h3{
         font: italic normal 1.4em Georgia, serif;
         letter-spacing: 2px;
         margin-bottom: 0;
-        color: #1a296b;
+        color: #71a972;
+        position:static;
     
+    }
+
+   
+    div {
+        margin: 10px;
+        padding: 5px; 
     }
